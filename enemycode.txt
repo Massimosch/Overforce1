@@ -1,6 +1,0 @@
-some awesome something 
-
-[SERIALIZEFIELD]
-public int jumpforce;
-
-jumpforce = 9;
